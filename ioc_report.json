@@ -1,0 +1,52 @@
+{
+  "summary": {
+    "emails": [
+      "admin@mail.example.org",
+      "security@example-company.com"
+    ],
+    "ipv4": [
+      "192.168.1.45"
+    ],
+    "domains": [
+      "api.example.com",
+      "example-company.com",
+      "mail.example.org",
+      "malicious.example-path.com"
+    ],
+    "md5": [
+      "d41d8cd98f00b204e9800998ecf8427e"
+    ],
+    "sha1": [
+      "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    ],
+    "sha256": [
+      "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    ]
+  },
+  "per_file": {
+    "sample_input.txt": {
+      "emails": [
+        "admin@mail.example.org",
+        "security@example-company.com"
+      ],
+      "ipv4": [
+        "192.168.1.45"
+      ],
+      "domains": [
+        "api.example.com",
+        "example-company.com",
+        "mail.example.org",
+        "malicious.example-path.com"
+      ],
+      "md5": [
+        "d41d8cd98f00b204e9800998ecf8427e"
+      ],
+      "sha1": [
+        "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+      ],
+      "sha256": [
+        "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      ]
+    }
+  }
+}

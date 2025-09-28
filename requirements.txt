@@ -1,0 +1,2 @@
+scapy; # optional (used if you want to parse pcap files)
+# No mandatory external packages required for basic text scanning

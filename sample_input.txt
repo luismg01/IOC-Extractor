@@ -1,0 +1,16 @@
+
+Hello team,
+Please find the logs attached. Some interesting items:
+
+- Contact: security@example-company.com
+- Backup server IP: 192.168.1.45
+- Public service: api.example.com
+- Suspicious hash: d41d8cd98f00b204e9800998ecf8427e (md5)
+- Long SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+- SHA256 example: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+- Another email: admin@mail.example.org
+- A URL: http://malicious.example-path.com/page
+- Some noise: abcd1234 not a hash but should not match.
+
+Also repeated items: security@example-company.com and 192.168.1.45
+End of sample.
